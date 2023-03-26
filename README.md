@@ -10,3 +10,5 @@ This is a 2nd ammendment from TESTDummyUser1
 This is a 3rd ammendment from TESTDummyUser1
 
 This is a 4th ammendment from TESTDummyUser1
+
+This is 6th edit from Admin. Test to revert this commit in GitHub desktop.
